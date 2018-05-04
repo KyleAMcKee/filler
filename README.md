@@ -40,11 +40,11 @@ Try running the following:
 
 **Program running:**
 
-# Small:
+### Small:
 <img src="screenshots/small.png" width="550" />
 
-# Medium:
+### Medium:
 <img src="screenshots/medium.png" width="550" />
 
-# Large:
+### Large:
 <img src="screenshots/large.png" width="550" />
