@@ -1,6 +1,7 @@
 # 42 Project: Filler
 
 This object of this program is to create an algorithm for a player that will compete against another player on a map. A VM will give random shaped pieces to each player and they must place them on the board without overlapping their own piece or the opponent. The player with the most pieces placed at the end wins.
+
 A heat map was used to find the position closest to the opponent and place a piece there. Using this strategy the opponent will eventually be trapped and will not have anywhere to place their pieces.
 
 ## Getting Started
@@ -39,8 +40,11 @@ Try running the following:
 
 **Program running:**
 
+# Small:
 <img src="screenshots/small.png" width="550" />
 
+# Medium:
 <img src="screenshots/medium.png" width="550" />
 
+# Large:
 <img src="screenshots/large.png" width="550" />
